@@ -1,0 +1,26 @@
+/* common style start  */
+.orange{
+    color: orange;
+}
+
+.header-bg{
+    background-color: #264653;
+}
+
+/* feature bikes start */
+.img .img2 img{
+    width: 85%;    
+}
+.img img{
+    filter: grayscale(100%);
+}
+.img:hover img{
+    filter: grayscale(0);
+}
+/* feature bikes end */
+
+/* testimonial start */
+
+.fill, .no-fill{
+    color:orange;
+}
